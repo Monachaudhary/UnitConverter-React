@@ -44,8 +44,8 @@ To run this application locally, follow these steps:
     yarn start
    
 3. Open your web browser and visit http://localhost:3000 to view the application.
+![image](https://github.com/Monachaudhary/UnitConverter-React/assets/96776726/55445716-d717-4d93-a330-d0570b4cdcdd)
 
-![image](https://github.com/Monachaudhary/UnitConverter-Using-React/assets/96776726/9c9993f6-0500-4319-b7fc-05e6599de34f)
 
 ## Contact
 If you have any questions, suggestions, or feedback, feel free to reach out to me at manuchaudhary991@gmail.com.
